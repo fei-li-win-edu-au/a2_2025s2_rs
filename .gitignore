@@ -1,0 +1,15 @@
+# Ignore temporary files
+*~
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore additional macOS files
+**/.DS_Store
+**/.AppleDouble
